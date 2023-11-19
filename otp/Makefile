@@ -20,4 +20,4 @@ server:
 	go run main.go
 
 
-.PHONY: createdb dropdb migrateup migratedown sqlc postgres server
+.PHONY: createdb dropdb migrateup migratedown sqlc  server my-postgres
